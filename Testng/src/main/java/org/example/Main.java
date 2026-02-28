@@ -20,7 +20,7 @@ public class Main extends BaseClass{
 
     @Test
     public void Logout(){
-        System.out.println("logoutll");
+        System.out.println("logoutlll");
         driver.get("https://www.salesforce.com/form/signup/elf-v2-login/");
 
     }
